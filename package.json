@@ -1,0 +1,21 @@
+{
+    "name": "github-italics-theme",
+    "displayName": "GitHub Italics Theme",
+    "description": "Uses GitHubs color scheme merged with Tomorrow Operator Mono's text decoration scheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Github Italics Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Github Italics Theme-color-theme.json"
+            }
+        ]
+    }
+}
