@@ -1,13 +1,31 @@
-# README
-## This is the README for your extension "github-italics-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# GitHub Theme with Italics
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This VSCode theme merges the colors from [GitHub Theme](https://github.com/primer/github-vscode-theme) with the font styles (italic, bold, and underline) of [Tomorrow and Tomorrow Night Operator Mono Theme](https://github.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+## Screenshots
+
+HTML:
+
+<img src="https://raw.githubusercontent.com/gitKendra/github-italics-vscode-theme/master/images/html-light.png" width="440">
+
+Javascript:
+
+<img src="https://raw.githubusercontent.com/gitKendra/github-italics-vscode-theme/master/images/node-js-light.png" width="500">
+
+React:
+
+<img src="https://raw.githubusercontent.com/gitKendra/github-italics-vscode-theme/master/images/react-light.png" width="400">
+
+Python:
+
+<img src="https://raw.githubusercontent.com/gitKendra/github-italics-vscode-theme/master/images/python-light.png" width="400">
+
+
+## Repo
+
+[github.com/gitKendra/github-italics-vscode-theme](https://github.com/gitKendra/github-italics-vscode-theme)
+
+**I hope you enjoy this theme!**
+
+**|<3's />**
