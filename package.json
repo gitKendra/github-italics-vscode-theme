@@ -1,10 +1,21 @@
 {
   "name": "github-italics-theme",
   "displayName": "GitHub Theme with Italics",
-  "description": "Uses GitHubs color scheme merged with Tomorrow Operator Mono's text decoration scheme",
-  "version": "0.0.1",
+  "description": "This VSCode theme merges GitHub color scheme with Tomorrow Operator Mono's text decoration scheme",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.45.0"
+  },
+  "publisher": "gitKendra",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#ffffff",
+    "theme": "light"
+  },
+  "homepage": "https://github.com/gitKendra/github-italics-vscode-theme/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitKendra/github-italics-vscode-theme.git"
   },
   "categories": [
     "Themes"
